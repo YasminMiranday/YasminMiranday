@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Larissa Yasmin Miranda, tenho 26 anos e sou natural da Bahia. Cursei técnico em informática no IFBA. Atualmente, estou cursando Sistemas de Informação  na UESB. Sou apaixonada por tecnologia.
+Me chamo Yasmin Miranda, tenho 26 anos e sou natural da Bahia. Cursei técnico em informática no IFBA. Atualmente, estou cursando Sistemas de Informação  na UESB. Sou apaixonada por tecnologia.
 
 <p align="left">
     <a href="https://github.com/yasminmiranday?tab=repositories&sort=stargazers">
